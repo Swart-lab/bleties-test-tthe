@@ -1,0 +1,12 @@
+reads_ngs/
+reads_ont/
+reads_pb_clr/
+mapping_ont/
+mapping_pb/
+parties_ngs/
+envs/
+plots/
+qsub_scripts/
+ref/
+.ipynb_checkpoints/
+*.swp
