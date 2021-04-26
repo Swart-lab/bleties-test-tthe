@@ -1,3 +1,5 @@
+bleties_ont/
+bleties_pb/
 reads_ngs/
 reads_ont/
 reads_pb_clr/
@@ -10,3 +12,4 @@ qsub_scripts/
 ref/
 .ipynb_checkpoints/
 *.swp
+tthe*
