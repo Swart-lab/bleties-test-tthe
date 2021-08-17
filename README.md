@@ -32,5 +32,10 @@ Run script `do_bleties.sh` to map long reads to reference MAC genome with
 minimap2, and use BleTIES to reconstruct IESs. Edit script to specify paths on
 your system.
 
-Analysis is documented in the Jupyter notebook: 
-`Compare_BleTIES_PacBio_Nanopore_predictions.ipynb`
+Analysis is documented in the following Jupyter notebooks: 
+
+ * `Compare_BleTIES_PacBio_Nanopore_predictions.ipynb` - Main notebook
+ * `Check_reported_intragenic_IESs.ipynb` - Check whether intragenic IESs
+   reported by Hamilton et al. (2016) are also assembled by BleTIES
+ * `Clips_vs_inserts_at_non-predicted_IESs.ipynb` - Look for clips/inserts at
+   known IES junctions where BleTIES did not predict an IES
