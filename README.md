@@ -5,6 +5,10 @@ MIC enrichment from Tetrahymena thermophila, used to test performance of
 BleTIES with both PacBio Sequel I subreads and Nanopore MinION long reads, and
 compared against published IES sequences.
 
+This repository supplements our
+[preprint](https://www.biorxiv.org/content/10.1101/2021.05.18.444610v1)
+describing the [BleTIES](https://github.com/Swart-lab/bleties) software.
+
 
 Source data and setup
 ---------------------
